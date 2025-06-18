@@ -37,7 +37,7 @@ Dự án hướng đến mô phỏng quy trình thực tế: từ quản lý s�
 
 ---
 
-## 📷 Hình ảnh minh họa
+## 📷 Các chức năng và trang hiển thị
 
 - Trang sản phẩm, chi tiết sản phẩm  
 - Trang giỏ hàng và thanh toán  
