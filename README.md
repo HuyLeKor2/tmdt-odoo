@@ -43,19 +43,8 @@ Dự án hướng đến mô phỏng quy trình thực tế: từ quản lý s�
 - Trang giỏ hàng và thanh toán  
 - Giao diện quản trị viên  
 - Module khuyến mãi, quản lý đơn hàng  
-> Tất cả ảnh chụp màn hình có thể xem trong thư mục `/docs/screenshots` hoặc tài liệu báo cáo.
+...
+  Chi tiết xin bấm vào link sau để coi báo cáo: 
+  https://drive.google.com/drive/folders/18m-c7PsXEZGkvOsT0mvCJ4V9WIG7mFpZ
 
 ---
-
-## 📘 Cách cài đặt và chạy thử
-
-```bash
-# Clone repo
-git clone https://github.com/ten-ban/odoo-ecommerce-sales.git
-cd odoo-ecommerce-sales
-
-# Cài đặt thư viện phụ thuộc
-pip install -r requirements.txt
-
-# Chạy Odoo server
-./odoo-bin -c odoo.conf
